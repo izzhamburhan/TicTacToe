@@ -1,5 +1,6 @@
 # TicTacToe
-- Mencuba membuat Tic Tac Toe dengan menggunakan python
+- Mencuba membuat Tic Tac Toe dengan menggunakan python (Ikut Tutorial dari Kylie Ying)
+https://youtu.be/8ext9G7xspg - Kylie Ying
 
 game.py = <code>Menggunakan AI untuk mencari berapa kali AI menang
 
